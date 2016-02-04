@@ -1,3 +1,5 @@
+/*! scroll-normalise 0.0.1 (2016-02-04) | Blake Kus - https://github.com/kus/scroll-normalise | Free to use under terms of MIT license */
+
 (function (root, factory) {
 	"use strict";
 
