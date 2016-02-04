@@ -1,0 +1,12 @@
+{
+  "name": "scroll-normalise",
+  "version": "0.0.1",
+  "description": "Normalise scroll events from devices that have built in inertial scrolling.",
+  "main": "scroll.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Blake Kus <blakekus@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {}
+}
